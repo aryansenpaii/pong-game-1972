@@ -21,8 +21,6 @@ score_board= Scoreboard()
 
 
 
-
-
 screen.listen()
 screen.onkeypress(r_paddle.go_up,"Up")
 screen.onkeypress(r_paddle.go_down,"Down")
